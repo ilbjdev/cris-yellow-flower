@@ -3,9 +3,10 @@ const typed = new Typed('.typed', {
         'Crisney Beltrán', 
         'Mujer Hermosa', 
         'de Gran Corazón,', 
-        'de Alto Valor', 
+        'de Alto Valor,', 
         'Sexy...', 
-        'y Crujiente como', 'Galletica'
+        'y Crujiente como',
+        'Galletica'
     ],
     //stringsElement: '#cadena-texto',
     typeSpeed: 75,
